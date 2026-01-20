@@ -1,2 +1,2 @@
 # Python-Calculator
-A beginner-friendly Python calculator supporting basic arithmetic with continuous result chaining.
+This is a basic-level Python calculator built to practise core programming concepts such as functions, loops, conditionals, and dictionaries. The program performs simple arithmetic operations (addition, subtraction, multiplication, and division) and allows users to continue calculating by reusing the result from the previous calculation. It runs in the terminal and includes a simple text-based interface with an ASCII logo.
